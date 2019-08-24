@@ -1,2 +1,2 @@
 # priple_nodejs_masterclass_app
-Homework assingments for the Nodejs Masterclass
+Homework assignments for the Nodejs Masterclass
